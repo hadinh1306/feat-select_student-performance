@@ -1,5 +1,7 @@
 # [Data Science] What Factors Affect Student Performance? 
+
 ---- A feature & model selection project ----
+
 Project start date: January 15th, 2018
 
 ### Directory Information
